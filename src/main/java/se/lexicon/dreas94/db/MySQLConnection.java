@@ -10,7 +10,7 @@ public class MySQLConnection
 {
     private static final String URL = "jdbc:mysql://localhost:3306/world";
     private static final String USER = "root";
-    private static final String PASS = "524525";
+    private static final String PASS = "xxx";
 
     public static Connection getConnection() throws DBConnectionException
     {
